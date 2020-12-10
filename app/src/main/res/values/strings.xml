@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">exam2020186</string>
+    <string name="title">知识问答</string>
+    <string name="question">广东的简称是：</string>
+    <string name="hint">输入答案</string>
+    <string name="submit">提交</string>
+    <string name="result">测试结果</string>
+    <string name="answer">粤</string>
+    <string name="correct">回答正确</string>
+    <string name="incorrect">回答错误</string>
+</resources>
